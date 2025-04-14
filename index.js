@@ -1,6 +1,6 @@
 var winbox = WinBox({
     title: "z",
-    url: "file:///C:/Users/Admin/Documents/GitHub/ffkw/index.html",
+    url: "https://warpedwartwars.github.io/ffkw/index.html",
     onload: function(){console.log("loaded");},
     overflow: true,
     x: "center",
